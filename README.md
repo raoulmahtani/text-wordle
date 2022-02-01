@@ -1,2 +1,3 @@
 # text-wordle
-a text based version of the popular word guessing game in python
+Wordle was sold today to NYT for "low" seven figures.
+This is just a pet project to recreate wordle, just for fun.
